@@ -1,4 +1,4 @@
-module practicing/zigzag_conversion
+module github.com/olimacorot/zigzag_conversion
 
 go 1.19
 
